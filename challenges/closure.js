@@ -29,7 +29,7 @@ function summation(x){
     counter = counter + i;
     
   }
-  console.log(counter)
+  return(counter);
 }
 
 console.log(summation(4));

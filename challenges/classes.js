@@ -38,7 +38,7 @@ surfaceArea() {
    };
 };
 
-const cube = new CubeMaker ({'length': 4,'width': 4,'height': 4});
+const cube = new CubeMaker ({'length': 4});
 
 
 console.log(cube.volume()); // 64
